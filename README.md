@@ -1,14 +1,14 @@
-# Style Transfer
+### Style Transfer
 
 Computer vision is a subfield of AI that deals with gaining deeper undestanding of digital images. In computer vision the type of Neural networks that we use are called Convolutional Neural Networks (CNN). CNN consists of layers of small computational units that process visual information hierarchically in a feed-forward manner. Each layer of units can be understood as a collection of image filters each of which extracts a certain feature from the input image. Thus the output of a given layer consists of so-called feature maps: differently filtered version of the input image[1]. The algorithm that is presented here is "A neural Algorithm of Artistic Style" in 2015[1] by Leon A. Gatys.
 
 
-# Example generated with this code:
+### Example generated with this code:
 
 
 
 
-# Acknowledgments: 
+### Acknowledgments: 
 
 [1] A Neural Algorithm of Artistic Style - https://arxiv.org/abs/1508.06576 <br>
 [2] https://keras.io/examples/generative/neural_style_transfer/ <br>
