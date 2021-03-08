@@ -15,6 +15,6 @@ Computer vision is a subfield of AI that deals with gaining deeper undestanding 
 
 [1] A Neural Algorithm of Artistic Style - https://arxiv.org/abs/1508.06576 <br>
 [2] https://keras.io/examples/generative/neural_style_transfer/ <br>
-[3] https://github.com/Shashi456/Neural-Style/blob/f226abf09b89fcb1970c167aaa666677cdc8f9f5/Neural%20Style%20Transfer/train_TensorFlow.py#L53
-Style Image: The Scream by Edvard Munch, The Scream
+[3] https://github.com/Shashi456/Neural-Style/blob/f226abf09b89fcb1970c167aaa666677cdc8f9f5/Neural%20Style%20Transfer/train_TensorFlow.py#L53 <br>
+Style Image: The Scream by Edvard Munch, The Scream <br>
 Style Image: Starry Night by Vincent Van Gogh, The Starry Night
