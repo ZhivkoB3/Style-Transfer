@@ -8,7 +8,7 @@ Computer vision is a subfield of AI that deals with gaining deeper undestanding 
 
 ### Example generated with this code:
 
-
+<img src = "https://github.com/ZhivkoB3/Trapped-in-art/blob/main/StyleTransfered.png">
 
 
 ### Acknowledgments: 
