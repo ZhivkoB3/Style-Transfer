@@ -8,7 +8,7 @@ Computer vision is a subfield of AI that deals with gaining deeper undestanding 
 
 ### Example generated with this code:
 
-<img src = "https://sites.google.com/site/lilyarteia123/data-charts/vincent-van-gogh/image.jpg?attredirects=0" width = 250> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plus_symbol.svg/853px-Plus_symbol.svg.png" width = 50> <img src = "https://media.overstockart.com/optimized/cache/data/product_images/VG485-1000x1000.jpg" width = 250> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Equal_symbol.svg/500px-Equal_symbol.svg.png" width = 50> <img src = "https://github.com/ZhivkoB3/Trapped-in-art/blob/main/StyleTransfered.png" width = 250>
+<img src = "https://sites.google.com/site/lilyarteia123/data-charts/vincent-van-gogh/image.jpg?attredirects=0" width = 200> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plus_symbol.svg/853px-Plus_symbol.svg.png" width = 50> <img src = "https://media.overstockart.com/optimized/cache/data/product_images/VG485-1000x1000.jpg" width = 200> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Equal_symbol.svg/500px-Equal_symbol.svg.png" width = 50> <img src = "https://github.com/ZhivkoB3/Trapped-in-art/blob/main/StyleTransfered.png" width = 200>
 
 
 ### Acknowledgments: 
