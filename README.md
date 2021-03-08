@@ -51,6 +51,6 @@ As presented, coding a Neural Style Transfer neural network in Python is not ver
 
 References: 
 
-[1] A Neural Algorithm of Artistic Style - https://arxiv.org/abs/1508.06576
-[2] https://keras.io/examples/generative/neural_style_transfer/
-[3] https://github.com/Shashi456/Neural-Style/blob/f226abf09b89fcb1970c167aaa666677cdc8f9f5/Neural%20Style%20Transfer/train_TensorFlow.py#L53
+[1] A Neural Algorithm of Artistic Style - https://arxiv.org/abs/1508.06576 <br>
+[2] https://keras.io/examples/generative/neural_style_transfer/ <br>
+[3] https://github.com/Shashi456/Neural-Style/blob/f226abf09b89fcb1970c167aaa666677cdc8f9f5/Neural%20Style%20Transfer/train_TensorFlow.py#L53 <br>
