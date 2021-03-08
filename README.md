@@ -1,3 +1,5 @@
+# Trapped in art
+
 ***Abstract* - Style transfer has been ground-breaking into the field of computer vision. Neural style transfer is an algorithm that incorporates the style and texture of one image (style image onto another image known as content image) by reducing their overall loss.**
 
 ### I. Introduction
