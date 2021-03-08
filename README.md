@@ -4,7 +4,7 @@ Computer vision is a subfield of AI that deals with gaining deeper undestanding 
 
 ### Overview of the model
 
-![overview] (https://miro.medium.com/max/1430/1*JAMQmAJ-oPH35D5K4tJvJQ.png)
+<img src = "https://miro.medium.com/max/1430/1*JAMQmAJ-oPH35D5K4tJvJQ.png">
 
 ### Example generated with this code:
 
